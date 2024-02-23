@@ -1,0 +1,14 @@
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\bin\Debug\net6.0\SSnakess.exe
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\bin\Debug\net6.0\SSnakess.deps.json
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\bin\Debug\net6.0\SSnakess.runtimeconfig.json
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\bin\Debug\net6.0\SSnakess.dll
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\bin\Debug\net6.0\SSnakess.pdb
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\obj\Debug\net6.0\SSnakess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\obj\Debug\net6.0\SSnakess.AssemblyInfoInputs.cache
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\obj\Debug\net6.0\SSnakess.AssemblyInfo.cs
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\obj\Debug\net6.0\SSnakess.csproj.CoreCompileInputs.cache
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\obj\Debug\net6.0\SSnakess.dll
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\obj\Debug\net6.0\refint\SSnakess.dll
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\obj\Debug\net6.0\SSnakess.pdb
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\obj\Debug\net6.0\SSnakess.genruntimeconfig.cache
+C:\Users\jojon\OneDrive\Desktop\repos\SSnakess\SSnakess\obj\Debug\net6.0\ref\SSnakess.dll
